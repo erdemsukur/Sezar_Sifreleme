@@ -1,0 +1,7 @@
+C:\Users\Lenovo\AppData\Local\Temporary Projects\sezarsifreleme\bin\Debug\sezarsifreleme.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\sezarsifreleme\bin\Debug\sezarsifreleme.pdb
+C:\Users\Lenovo\AppData\Local\Temporary Projects\sezarsifreleme\obj\x86\Debug\sezarsifreleme.Form1.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\sezarsifreleme\obj\x86\Debug\sezarsifreleme.Properties.Resources.resources
+C:\Users\Lenovo\AppData\Local\Temporary Projects\sezarsifreleme\obj\x86\Debug\sezarsifreleme.csproj.GenerateResource.Cache
+C:\Users\Lenovo\AppData\Local\Temporary Projects\sezarsifreleme\obj\x86\Debug\sezarsifreleme.exe
+C:\Users\Lenovo\AppData\Local\Temporary Projects\sezarsifreleme\obj\x86\Debug\sezarsifreleme.pdb

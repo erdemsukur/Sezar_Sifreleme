@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\sezar_sifreleme\sezar_sifreleme\bin\Release\sezar_sifreleme.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\sezar_sifreleme\sezar_sifreleme\bin\Release\sezar_sifreleme.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\sezar_sifreleme\sezar_sifreleme\obj\x86\Release\sezarsifreleme.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\sezar_sifreleme\sezar_sifreleme\obj\x86\Release\sezarsifreleme.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\sezar_sifreleme\sezar_sifreleme\obj\x86\Release\sezar_sifreleme.csproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\sezar_sifreleme\sezar_sifreleme\obj\x86\Release\sezar_sifreleme.exe
+C:\Users\Lenovo\Documents\Visual Studio 2010\Projects\sezar_sifreleme\sezar_sifreleme\obj\x86\Release\sezar_sifreleme.pdb
